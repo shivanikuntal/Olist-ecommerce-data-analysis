@@ -137,7 +137,7 @@ An interactive Power BI dashboard was created to provide a visual overview of th
 
 ### Executive Overview
 
-![Executive Overview](Screenshot)
+![Executive Overview](Screenshot 2026-08-22 153743.png)
 
 ### Sales & Product Analysis
 
