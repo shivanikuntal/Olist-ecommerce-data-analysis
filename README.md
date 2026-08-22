@@ -133,22 +133,6 @@ An interactive Power BI dashboard was created to provide a visual overview of th
 
 ---
 
-## 📸 Dashboard Preview
-
-### Executive Overview
-
-![Executive Overview](Screenshot 2026-08-22 153743.png)
-
-### Sales & Product Analysis
-
-![Sales & Product Analysis](screenshots/sales_product_analysis.png)
-
-### Customer & Delivery Analysis
-
-![Customer & Delivery Analysis](screenshots/customer_delivery_analysis.png)
-
----
-
 ## 🔍 Key Insights
 
 The dashboard and SQL analysis were used to identify important patterns in:
@@ -175,9 +159,6 @@ olist-ecommerce-data-analysis/
 │
 ├── Python/
 │   └── data_cleaning.ipynb
-│
-├── PowerBI/
-│   └── Olist_Ecommerce_Dashboard.zip
 │
 └── screenshots/
     ├── executive_overview.png
